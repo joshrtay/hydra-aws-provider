@@ -2,7 +2,7 @@
   "name": "hydra-aws-provider",
   "description": "Hydra helper for adding aws provider conifg.",
   "repository": "git://github.com/joshrtay/hydra-aws-provider.git",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
